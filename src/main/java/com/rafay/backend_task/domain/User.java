@@ -1,4 +1,4 @@
-package main.java.com.rafay.backend_task.domain;
+package com.rafay.backend_task.domain;
 
 import jakarta.persistence.*;
 import java.util.UUID;
